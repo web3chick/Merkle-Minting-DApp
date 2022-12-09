@@ -1,7 +1,7 @@
 {
-  "build/main.css": "/main.css",
-  "build/main.js": "/main.js",
-  "build/images/logo.png": "/logo.png",
-  "build/images/fav.png": "/fav.png",
-  "build/images/preview.png": "preview.png"
+  "/main.css": "/main.css",
+  "/main.js": "/main.js",
+  "/images/logo.png": "/logo.png",
+  "/images/fav.png": "/fav.png",
+  "/images/preview.png": "/preview.png"
 }
