@@ -1,7 +1,7 @@
 {
   "/main.css": "https://github.com/web3chick/Merkle-Minting-Dapp/blob/main/main.css",
   "/main.js": "https://github.com/web3chick/Merkle-Minting-Dapp/blob/main/main.js",
-  "/images/logo.png": "https://github.com/web3chick/Merkle-Minting-Dapp/blob/main/logo.png",
+  "/images/logo.png": "https://raw.githubusercontent.com/web3chick/Merkle-Minting-Dapp/main/logo.png",
   "/images/fav.png": "https://github.com/web3chick/Merkle-Minting-Dapp/blob/main/fav.png",
   "/images/preview.png": "https://github.com/web3chick/Merkle-Minting-Dapp/blob/main/preview.png"
 }
